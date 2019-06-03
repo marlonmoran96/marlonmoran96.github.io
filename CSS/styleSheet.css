@@ -59,3 +59,11 @@
     font-size: 36px;
     margin-right: 50px;
   }
+
+  body{
+    background-image: url('../img/BackGround.jpg');
+  }
+  .tablePics{
+    width: 115px;
+    height: 110px; ;
+  }
